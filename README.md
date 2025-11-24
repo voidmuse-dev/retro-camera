@@ -14,6 +14,8 @@
 ## Project Overview
 This is a retro-style camera web application that generates polaroid-style photos using AI technology. The app features an intuitive camera interface with viewfinder, shutter button, and AI image generation capabilities.
 
+**Live Demo:** https://voidmuse-dev.github.io/retro-camera/
+
 ## Inspiration
 The idea for this project originated from this Twitter post:
 https://x.com/ann_nnng/status/1991079810882265254

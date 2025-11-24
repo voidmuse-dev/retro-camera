@@ -14,6 +14,8 @@
 ## 项目概述
 这是一个复古风格的相机Web应用，使用AI技术生成拍立得风格的照片。该应用具有直观的相机界面，包括取景器、快门按钮和AI图像生成功能。
 
+**在线演示：** https://voidmuse-dev.github.io/retro-camera/
+
 ## 灵感来源
 这个项目的想法源自这个Twitter帖子：
 https://x.com/ann_nnng/status/1991079810882265254
