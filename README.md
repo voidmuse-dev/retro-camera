@@ -1,5 +1,11 @@
 # Retro Camera - AI-Powered Polaroid Camera App
 
+## Language Versions
+- [English README](README.md)
+- [中文 README](README-zh.md)
+
+
+
 <div align="center">
 <!-- Product Screenshot Placeholder -->
 <img width="600" alt="Retro Camera App Screenshot" src="product-screenshot-placeholder.png" />
